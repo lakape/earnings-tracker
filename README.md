@@ -14,4 +14,4 @@ Coming soon!
 1. Install Android Studio
 2. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/wage-timer.git
+   git clone [https://github.com/lakape/earnings-tracker.git]
